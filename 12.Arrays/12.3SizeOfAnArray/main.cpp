@@ -24,7 +24,7 @@ int main(){
 
    //Range based for loop
     for ( auto i : scores){
-            std::cout << "value  : " << i << std::endl;       
+        std::cout << "value  : " << i << std::endl;       
     }
     */
    
