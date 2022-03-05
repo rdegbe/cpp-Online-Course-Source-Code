@@ -4,7 +4,7 @@
 int main(){
 
 	//Declare array
-    char message [5]  {"Hello"};
+    // char message [5]{"Hello"};   // error: the actual size is 6 since it includes a null terminating character
     //int data[5] {1,2,3,3,3};
 
     //std::cout << "data : " << data << std::endl;
