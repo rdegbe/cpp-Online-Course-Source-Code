@@ -28,14 +28,10 @@ int main(){
     planet = "Earth. Where the sky is blue Earth. Where the sky is blue Earth. Where ";
     std::cout << "planet : " << planet << std::endl;
 
-
     //Use a raw array
     const char * planet1 {"Earth. Where the sky is blue Earth."};
     planet1 = "Earth. Where the sky is blue Earth. Where the sky is blue Earth. Where ";
     std::cout << "planet1 : " << planet1 << std::endl;
-
-
-
 
    
     return 0;
