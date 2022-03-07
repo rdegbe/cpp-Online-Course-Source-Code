@@ -50,7 +50,7 @@ int main(){
     string_data1 = "Alabama";
     string_data2 = "Alabamb";
 
-    //string_data3 = "Alabama";     BAD: Not allowed to point array to a different address after initialization
+    //string_data3 = "Alabama";     BAD: Not allowed to point array to a different ADDRESS(speaking of pointer) after initialization
     //string_data4 = "Alabamb";
 
     //Print out the comparison
