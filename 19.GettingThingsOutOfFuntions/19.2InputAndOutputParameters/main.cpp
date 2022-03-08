@@ -7,7 +7,7 @@ void max_double( double input1, double input2,double* output);
 
 int main(){
     /*
-	std::string out_str;
+	std::string out_str{};
 	std::string string1("Cassablanca");
 	std::string string2("Bellevue");
 
@@ -16,20 +16,20 @@ int main(){
     */
 
     /*
-    int out_int;
+    int out_int{};
     int in1{45};
     int in2{723};
     max_int(in1,in2,out_int);
     std::cout << "max_int : " << out_int << std::endl;
     */
 
-   /*
-   double out_double;
-   double in_double1{45.8};
-   double in_double2{76.9};
-   max_double(in_double1,in_double2,&out_double);
-   std::cout << "max_double : " << out_double << std::endl;
-   */
+    /*
+    double out_double{};
+    double in_double1{45.8};
+    double in_double2{76.9};
+    max_double(in_double1,in_double2,&out_double);
+    std::cout << "max_double : " << out_double << std::endl;
+    */
    
     return 0;
 }
