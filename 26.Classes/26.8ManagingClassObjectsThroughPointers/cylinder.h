@@ -1,7 +1,6 @@
 #ifndef CYLINDER_H
 #define CYLINDER_H
 
-#include "constants.h"
 class Cylinder {
     public : 
         //Constctors
